@@ -1,0 +1,35 @@
+{
+  "logo": {
+    "type": "file",
+    "source": "/home/kearamare/.config/fastfetch/miku.txt",
+    "position": "top",
+    "color": {
+      "1": "red"
+    }
+  },
+"display": {
+  "color": {
+    "keys": "bright_red",
+    "title": "bright_red"
+  }
+},
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "wm",
+    "terminal",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "battery",
+    "colors"
+  ]
+}
